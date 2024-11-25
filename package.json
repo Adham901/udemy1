@@ -2,7 +2,7 @@
   "name": "udemy1",
   "version": "0.1.0",
   "private": true,
-  "Homepage": "https://Adham901.github.io/udemy1",
+  "Homepage": "https://Adham901.github.io/udemy-2",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -12,6 +12,7 @@
     "react-bootstrap": "^2.10.5",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "react-toastify": "^10.0.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {

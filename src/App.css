@@ -1,22 +1,5 @@
-.rectangler{
-    height: 550px;
-    
-    border-radius: 15px;
-    background-color: #ffffff;
-    box-shadow: 1px 4px 4px 1px rgba(85, 85, 85, 0.25);
-  }
-
-
-  .img-avatar {
-    height: 60px;
-    width: 60px;
-    border-radius: 50%;
-  }
-
-  .title {
-    background-color: aqua;
-    padding: 3px;
-    border-radius: 20px;
-  
-  }
-
+.bttn{
+background-color: aqua;
+border: none;
+border-radius: 20px;
+}
